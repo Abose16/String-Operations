@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690698520 source:d:\programming\int to words\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
